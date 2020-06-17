@@ -1,0 +1,3 @@
+.slideshow{ position: relative; overflow: hidden; min-width: 960px; height:465px;}
+.slideshow img{ position: absolute; left:50%; margin-left: -800px; display: none; }
+
